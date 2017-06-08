@@ -1,0 +1,22 @@
+{
+  "questions":
+          [
+            {
+              "question": "What is your name?",
+              "type": "input"
+            },
+
+            {
+              "question": "Are you working?",
+              "type": "select",
+              "answer": ["yes", "no"]
+            },
+
+            {
+              "question": "Will you be on occupayion on Saturday?",
+              "type": "select",
+              "answer": ["yes", "no", "maybe"]
+            }
+          ]
+}
+
